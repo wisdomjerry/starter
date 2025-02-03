@@ -38,8 +38,7 @@
 .nav ul li a:hover {
   text-decoration: underline;
 }
-
-.home .text-container{
+.text-container{
   text-align: center;
   display: flex;
   align-items: center;
